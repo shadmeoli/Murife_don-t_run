@@ -3,7 +3,9 @@
 
 #### Dependancies
 ```
-pip install typer rich click
+pip install typer
+pip install rich
+pip install click
 pip install emoji
 ```
 
