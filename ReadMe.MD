@@ -11,6 +11,12 @@ pip install emoji
 ```
 pip install --editable .
 ```
+#### MAKE SURE YOU RUN THIS BEFORE ANYEXCEUTIONS
+
+#### Execution
+```
+murife dont_run
+```
 
 #### [!!] Make sure you run it in the parent folder of the repo
 
