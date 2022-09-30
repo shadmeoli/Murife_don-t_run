@@ -23,7 +23,7 @@ murife dont_run
 #### [!!] Make sure you run it in the parent folder of the repo
 
 
-###### Thanks for cheaking thi out
+###### Thanks for cheaking this out
 ###### Feel free to create a PR and add some more features 
 
 Follow me
